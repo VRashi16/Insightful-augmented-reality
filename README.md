@@ -1,6 +1,5 @@
-# Frontend Mentor - Interactive rating component solution
 
-### # Preview: 
+# # Preview: 
 [![Interactive Rating Component]](https://github.com/VRashi16/interactive-star-rating/assets/42666448/3bdfc8e0-782f-43a3-adbc-ccdfe069bea1)
 
 # #1 The challenge
